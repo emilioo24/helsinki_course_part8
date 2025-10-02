@@ -1,0 +1,27 @@
+{
+  "name": "ejercicios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@apollo/server": "^5.0.0",
+    "@as-integrations/express5": "^1.1.2",
+    "@graphql-tools/schema": "^10.0.25",
+    "cors": "^2.8.5",
+    "dataloader": "^2.2.3",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "graphql": "^16.11.0",
+    "graphql-subscriptions": "^3.0.0",
+    "graphql-ws": "^6.0.6",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.2",
+    "uuid": "^13.0.0",
+    "ws": "^8.18.3"
+  }
+}
